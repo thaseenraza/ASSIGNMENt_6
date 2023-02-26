@@ -1,0 +1,40 @@
+{
+    "employees":[
+        {
+            "Name":"Thaseen",
+            "DOB":"12-10-1997",
+            "Height":"160 cm",
+            "City":"Warangal",
+            "State":"Telangana"
+        },
+        {
+            "Name":"Jack",
+            "DOB":"12-09-1997",
+            "Height":"155 cm",
+            "City":"Bhuvaneshwar",
+            "State":"Oddisa"
+        },
+        {
+            "Name":"pramodh",
+            "DOB":"01-01-1990",
+            "Height":"158 cm",
+            "City":"cuttack",
+            "State":"Oddisa"
+        },
+        {
+            "Name":"ram",
+            "DOB":"27-06-1992",
+            "Height":"160 cm",
+            "City":"Devarakonda",
+            "State":"Telangana"
+        },
+        {
+            "Name":"Johnson Paul",
+            "DOB":"05-05-2001",
+            "Height":"158 cm",
+            "City":"Thotapally",
+            "State":"Andhra Pradesh"
+        }
+    ]
+
+}
